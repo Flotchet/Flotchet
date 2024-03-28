@@ -14,10 +14,6 @@ class Flotchet(Human):
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 ![Cython](https://img.shields.io/badge/Code-Cython-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 ![Javascript](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
-![CSS](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css&logoColor=white&color=6aa6f8)
-
-![SQL](https://img.shields.io/badge/Querry-SQL-informational?style=flat&logo=sql&logoColor=white&color=6aa6f8)
-![CQL](https://img.shields.io/badge/Querry-CQL-informational?style=flat&logo=cql&logoColor=white&color=6aa6f8)
 
 ![HTML](https://img.shields.io/badge/Markup-HTML-informational?style=flat&logo=html&logoColor=white&color=6aa6f8)
 ![xml](https://img.shields.io/badge/Markup-XML-informational?style=flat&logo=xml&logoColor=white&color=6aa6f8)
@@ -25,6 +21,13 @@ class Flotchet(Human):
 
 ![css](https://img.shields.io/badge/Other-CSS-informational?style=flat&logo=css&logoColor=white&color=6aa6f8)
 ![scss](https://img.shields.io/badge/Other-SCSS-informational?style=flat&logo=scss&logoColor=white&color=6aa6f8)
+
+![SQL](https://img.shields.io/badge/Querry-SQL-informational?style=flat&logo=sql&logoColor=white&color=6aa6f8)
+![CQL](https://img.shields.io/badge/Querry-CQL-informational?style=flat&logo=cql&logoColor=white&color=6aa6f8)
+
+![Redis](https://img.shields.io/badge/Database-Redis-informational?style=flat&logo=redis&logoColor=white&color=6aa6f8)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
+![Cassabdra](https://img.shields.io/badge/Database-Cassandra-informational?style=flat&logo=apache-cassandra&logoColor=white&color=6aa6f8)
 
 ![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=6aa6f8)
 ![GitHub](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=6aa6f8)
@@ -39,10 +42,6 @@ class Flotchet(Human):
 ![Quart](https://img.shields.io/badge/Framework-Quart-informational?style=flat&logo=quart&logoColor=white&color=6aa6f8)
 ![odoo](https://img.shields.io/badge/Framework-odoo-informational?style=flat&logo=odoo&logoColor=white&color=6aa6f8)
 ![OWAF](https://img.shields.io/badge/Framework-OWAF-informational?style=flat&logo=OWAF&logoColor=white&color=6aa6f8)
-
-![Redis](https://img.shields.io/badge/Database-Redis-informational?style=flat&logo=redis&logoColor=white&color=6aa6f8)
-![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
-![Cassabdra](https://img.shields.io/badge/Database-Cassandra-informational?style=flat&logo=apache-cassandra&logoColor=white&color=6aa6f8)
 
 ![HTMX](https://img.shields.io/badge/Framework-HTMX-informational?style=flat&logo=htmx&logoColor=white&color=6aa6f8)
 ![OWL](https://img.shields.io/badge/Framework-OWL-informational?style=flat&logo=owl&logoColor=white&color=6aa6f8)
