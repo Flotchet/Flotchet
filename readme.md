@@ -27,6 +27,7 @@ class Flotchet(Human):
 
 ![Redis](https://img.shields.io/badge/Database-Redis-informational?style=flat&logo=redis&logoColor=white&color=6aa6f8)
 ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
+![SQLite](https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=6aa6f8)
 ![Cassabdra](https://img.shields.io/badge/Database-Cassandra-informational?style=flat&logo=apache-cassandra&logoColor=white&color=6aa6f8)
 
 ![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=6aa6f8)
