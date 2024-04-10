@@ -40,6 +40,7 @@ class Flotchet(Human):
 
 ![Flask](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=6aa6f8)
 ![Quart](https://img.shields.io/badge/Framework-Quart-informational?style=flat&logo=quart&logoColor=white&color=6aa6f8)
+![FastApi](https://img.shields.io/badge/Framework-FastAPI-informational?style=flat&logo=FastAPI&logoColor=white&color=6aa6f8)
 ![odoo](https://img.shields.io/badge/Framework-odoo-informational?style=flat&logo=odoo&logoColor=white&color=6aa6f8)
 ![OWAF](https://img.shields.io/badge/Framework-OWAF-informational?style=flat&logo=OWAF&logoColor=white&color=6aa6f8)
 
