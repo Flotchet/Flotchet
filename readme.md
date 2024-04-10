@@ -39,6 +39,9 @@ class Flotchet(Human):
 ![SQS](https://img.shields.io/badge/Queue-SQS-informational?style=flat&logo=amazon-sqs&logoColor=white&color=6aa6f8)
 ![RDS](https://img.shields.io/badge/Tools-RDS-informational?style=flat&logo=amazon-rds&logoColor=white&color=6aa6f8)
 
+![Docker](https://img.shields.io/badge/Containerization-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
+![kubernetes](https://img.shields.io/badge/Orchestration-kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
+
 ![Flask](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=6aa6f8)
 ![Quart](https://img.shields.io/badge/Framework-Quart-informational?style=flat&logo=quart&logoColor=white&color=6aa6f8)
 ![FastApi](https://img.shields.io/badge/Framework-FastAPI-informational?style=flat&logo=FastAPI&logoColor=white&color=6aa6f8)
