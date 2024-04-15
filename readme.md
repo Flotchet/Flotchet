@@ -52,3 +52,6 @@ class Flotchet(Human):
 ![OWL](https://img.shields.io/badge/Framework-OWL-informational?style=flat&logo=owl&logoColor=white&color=6aa6f8)
 
 ![Hypercorn](https://img.shields.io/badge/webserver-Hypercorn-informational?style=flat&logo=hypercorn&logoColor=white&color=6aa6f8)
+
+Note:
+I work a lot on forked repos from pallets so don't be fooled my activity is quite higher unfortunatly github doesn't count those as activity for some reasons 
