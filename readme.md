@@ -7,7 +7,7 @@ class Flotchet(Human):
     super().__init__(**kwargs)
  ```
 
-<div class="flex w-full"><img width="51%" class="output" src="https://github-readme-streak-stats.herokuapp.com/?user=Flotchet&amp;theme=dracula&amp;hide_border=false" alt="github streak"><img width="51%" class="output" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flotchet&amp;theme=dracula&amp;show_icons=true&amp;hide_border=false&amp;layout=compact" alt="github top languages"></div>
+<div class="flex w-full"><img width="51%" class="output" src="https://github-readme-stats.vercel.app/api?username=Flotchet&amp;theme=dracula&amp;show_icons=true&amp;hide_border=false&amp;count_private=true" alt="github stats"><img width="51%" class="output" src="https://github-readme-streak-stats.herokuapp.com/?user=Flotchet&amp;theme=dracula&amp;hide_border=false" alt="github streak"><img width="51%" class="output" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flotchet&amp;theme=dracula&amp;show_icons=true&amp;hide_border=false&amp;layout=compact" alt="github top languages"></div>
 **About me**
 
 <p><em>R&D Software & Data Enginner at <a href="https://github.com/odoo">odoo <img itemprop="image" class="avatar flex-shrink-0 mb-3 mr-3 mb-md-0 mr-md-4" src="https://avatars.githubusercontent.com/u/6368483?s=200&amp;v=4" width="20" height="20" alt="@odoo"></a></p>
